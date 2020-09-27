@@ -1,1 +1,1 @@
-simple calc built with react
+simple calculator built with react
